@@ -1,4 +1,4 @@
-# CareerOS 
+# Career Sync 
 
 ## What's in this folder
 - `index.html` — the working interactive demo. No install needed.
