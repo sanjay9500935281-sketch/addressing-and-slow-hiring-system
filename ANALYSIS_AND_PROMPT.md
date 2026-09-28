@@ -1,5 +1,5 @@
-# CareerOS — Deck Analysis & Build Prompt
-*Team SkyKnights · HackACE 2026 · Domain: Open Challenge Solutions*
+# Career Sync — Deck Analysis & Build Prompt
+
 
 ## What your deck says (17 slides, summarized)
 
