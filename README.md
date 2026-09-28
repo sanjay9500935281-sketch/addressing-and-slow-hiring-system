@@ -1,7 +1,5 @@
 # CareerOS 
 
-**Team:** SkyKnights
-
 ## What's in this folder
 - `index.html` — the working interactive demo. No install needed.
 - `ANALYSIS_AND_PROMPT.md` — deck analysis + the build prompt used to generate this demo.
