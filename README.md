@@ -1,6 +1,6 @@
-# CareerOS — HackACE 2026 Demo
+# CareerOS 
 
-**Team:** SkyKnights · **Domain:** Open Challenge Solutions
+**Team:** SkyKnights
 
 ## What's in this folder
 - `index.html` — the working interactive demo. No install needed.
